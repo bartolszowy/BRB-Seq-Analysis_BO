@@ -1,4 +1,4 @@
-# BRB-Seq Pipeline — Modernized Version
+# BRB-Seq Pipeline (Conda Environment)
 
 This is the refactored BRB-Seq pipeline with:
 - 2 YAML config files for SpikeIn and Full Run
