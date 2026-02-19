@@ -1,12 +1,11 @@
 # BRB-Seq Pipeline — Modernized Version
 
 This is the refactored BRB-Seq pipeline with:
-- Single YAML config file (replaces multiple parameter files)
+- 2 YAML config files for SpikeIn and Full Run
 - Simplified 3-column mapping file
-- Conda environment (replaces spack)
-- SLURM dependency chaining (automatic submission)
-- Automated repooling calculation (replaces Excel)
-- All bugs from the original pipeline fixed
+- Conda environment 
+- SLURM dependency chaining 
+- Automated repooling calculation 
 
 ## Setup (One-Time)
 
